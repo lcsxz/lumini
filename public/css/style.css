@@ -1,0 +1,67 @@
+/*
+Fontes
+
+
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Quicksand', sans-serif;
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Montserrat&display=swap');
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#icones {
+    color: #3a3a3a;
+}
+
+.navbar-item {
+    color: #000 !important;
+}
+
+.navbar-brand {
+    font-size: 20px;
+    font-family: Comfortaa;
+}
+
+.navbar-brand:hover {
+    font-size: 55px;
+}
+
+.nav-item {
+    font-weight: 600;
+    /* color: #000; */
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) {}
+
+
+/*// Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) {}
+
+
+/*// Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px) {}
+
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) {}
+
+
+/*
+
+
+Animações
+
+
+*/
