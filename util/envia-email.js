@@ -9,8 +9,8 @@ class EnviaEmail {
               https://myaccount.google.com/lesssecureapps?pli=1
             */
             auth: {
-                user: 'noreply.lumini@gmail.com',
-                pass: 'lumini2611'
+                user: '',
+                pass: ''
             }
 
         });
